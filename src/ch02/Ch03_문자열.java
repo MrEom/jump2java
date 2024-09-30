@@ -13,7 +13,7 @@ public class Ch03_문자열 {
         //리터럴 표기 - 객체를 생성하지 않고 고정된 값을 그대로 대입
 
         // 내장 메서드
-        a ="hello";
+        a = "hello";
         b = "java";
         c = "hello";
         // 문자열 비교 메서드 equals
@@ -36,7 +36,7 @@ public class Ch03_문자열 {
         System.out.println(a.replaceAll("Java", "World"));
 
         //substring : 문자열에서 특정 문자열을 뽑아낼 때 사용
-        System.out.println(a.substring(0,4));
+        System.out.println(a.substring(0, 4));
 
         //toUpperCase : 대문자로 변환
         System.out.println(a.toUpperCase());
@@ -51,7 +51,7 @@ public class Ch03_문자열 {
 
         //숫자를 입력
         System.out.println(String.format("나는 사과를 %d개 먹었다!", 10));
-        
+
         //두개이상 입력
         System.out.println(String.format("나는 사과를 %d개 먹고 아파서 %s일 약을 먹었다!", 5, "삼"));
 
