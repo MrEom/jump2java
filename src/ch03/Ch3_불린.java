@@ -1,4 +1,4 @@
-package ch02;
+package ch03;
 
 public class Ch3_불린 {
     public static void main(String[] args) {

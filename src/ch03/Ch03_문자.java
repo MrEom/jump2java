@@ -1,4 +1,4 @@
-package ch02;
+package ch03;
 
 public class Ch03_문자 {
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
-public class ch03_숫자 {
+package ch03;
+
+public class Ch03_숫자 {
     public static void main(String[] args) {
 //       정수 타입(자료형)
         int age = 10;
